@@ -1,0 +1,9 @@
+🔹 Shallow Copy in Java (for Arrays)
+-->A shallow copy copies only the reference of the array, not the actual data.
+-->Both the original and copied arrays point to the same memory location.
+-->Changes in one array reflect in the other.
+
+🔹 Deep Copy in Java (for Arrays)
+-->A deep copy creates a new array and copies each element individually.
+-->The new array is stored in a different memory location.
+-->Changes in one array do not affect the other.
