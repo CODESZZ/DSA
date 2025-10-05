@@ -1,0 +1,4 @@
+numbers---> sout(j+" ")
+SameNUmbers----> sout(i+" ")
+alpahbets---. sout((char)(j+64))
+alpahbets---. sout((char)(i+64))
